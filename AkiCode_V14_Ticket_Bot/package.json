@@ -1,0 +1,15 @@
+{
+    "name": "akicode-v14-advanced-ticket-bot",
+    "version": "0.0.1",
+    "description": "akicode Advanced Ticket Bot",
+    "main": "akicode.js",
+    "scripts": {
+        "start": "node akicode.js"
+    },
+    "dependencies": {
+        "better-sqlite3": "^11.1.2",
+        "discord-html-transcripts": "^3.1.4",
+        "discord.js": "^14.7.1",
+        "quick.db": "^9.0.8"
+    }
+}
